@@ -1,1 +1,1 @@
-# Here we come Pyton execeptions.
+# Here we come Pyton exceptions.
